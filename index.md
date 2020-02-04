@@ -10,3 +10,7 @@ Feel free to contact us...
 
 ### Support or Contact
 You can mail us anytime at [moblib.official@gmail.com](mailto:moblib.official@gmail.com). We will get in touch with you as soon as possible.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moblib/moblib.github.io/master/ic_launcher_round.png">
+</p>
