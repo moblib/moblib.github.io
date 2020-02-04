@@ -1,7 +1,7 @@
 ## Welcome to MobLib
 
 A Mobile Library for you. 
-Download and try our android app here...
+Download and try our android app here                                                                                  
 [![App on Playstore](https://img.shields.io/badge/App-Click%20to%20download-blueviolet?style=flat&logo=Android&logoColor=white)](https://play.google.com/store/apps/details?id=com.kajal.mynotes)
 
 We are now in development phase. And we do much more than you think.
