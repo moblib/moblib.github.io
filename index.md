@@ -2,8 +2,7 @@
 
 A Mobile Library for you. 
 Download and try our android app here
-[![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)](https://github.com/jonsn0w/Hyde/watchers)
-
+[![App on Playstore](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=for-the-badge&logo=Android)](https://github.com/jonsn0w/Hyde/watchers)
 We are now in development phase. And we do much more than you think.
 Want to know more about us ! Want to join us!
 Feel free to contact us...
