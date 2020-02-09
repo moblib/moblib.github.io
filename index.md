@@ -1,9 +1,8 @@
 ## Welcome to MobLib
 
 A Mobile Library for you. 
-Download and try our android app here.                                      
-We submitted the app in playstore which will be live within a day. Meanwhile you can download it here from Google Drive or try again after few hours.
-[![App on Playstore](https://img.shields.io/badge/App-Click%20to%20download-blueviolet?style=flat&logo=Android&logoColor=white)](https://drive.google.com/file/d/1jSrjH329_d3sSmcOG5EnjyDioufVG84H/view?usp=sharing)
+Download and try our android app here from Google Playstore.                                      
+[![App on Playstore](https://img.shields.io/badge/App-Click%20to%20download-blueviolet?style=flat&logo=Android&logoColor=white)](https://play.google.com/store/apps/details?id=com.kajal.bookworms)
 
 We are now in development phase. And we do much more than you think.
 Want to know more about us ! Want to join us!
